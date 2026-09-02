@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kritarth870/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kritarth870/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kritarth870/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Kritarth870/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kritarth870/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
