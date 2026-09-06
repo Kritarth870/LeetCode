@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        ArrayList<Integer>al = new ArrayList<>();
+        ArrayList<Integer> al = new ArrayList<>();
         HashSet<Integer> hs = new HashSet<>(); 
 
 
