@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kritarth870/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kritarth870/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Kritarth870/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Kritarth870/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Kritarth870/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kritarth870/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kritarth870/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Kritarth870/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Kritarth870/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Kritarth870/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kritarth870/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
