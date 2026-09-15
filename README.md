@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kritarth870/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Kritarth870/LeetCode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Kritarth870/LeetCode/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kritarth870/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kritarth870/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
