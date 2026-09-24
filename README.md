@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Kritarth870/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1929-concatenation-of-array](https://github.com/Kritarth870/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kritarth870/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kritarth870/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kritarth870/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kritarth870/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Kritarth870/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kritarth870/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kritarth870/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Kritarth870/LeetCode/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kritarth870/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Kritarth870/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Kritarth870/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kritarth870/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
